@@ -4,4 +4,4 @@ Hey ! My name is Roméo Maignal. Here's a few facts about me :
 - Previously, I've worked as a system engineer for a CubeSat mission within the [<b>EPFL Spacecraft Team</b>](https://www.epflspacecraftteam.ch/) 🛰️
 - My interests include open-source softwares ⛓️‍💥, low-level programming 💾 and cyber-security 🔐
 
-<b>I pinned a few projects I'm proud of. Check it out !</b>
+<b>I pinned a few projects I'm proud of, check it out !</b>

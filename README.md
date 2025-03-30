@@ -4,4 +4,4 @@ Hello ! My name is <b>Roméo Maignal</b>. Here's a few facts about me :
 - My interests include open-source softwares ⛓️‍💥, low-level programming 💾 and cyber-security 🔐
 - I'm also super excited about the applications of AI 🤖 and ML 🧠 in productivity workflow of software projects
 
-<b>I pinned a few projects I'm proud of, check it out !</b>
+<b>I pinned below a few projects I'm proud of, check it out !</b>

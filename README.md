@@ -1,4 +1,4 @@
-Hello ! My name is <b>Roméo Maignal</b>, here's a few facts about me :
+Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "10px">! My name is <b>Roméo Maignal</b>, here's a few facts about me :
 - I am a bachelor student in Computer Science 👨‍💻 at [<b>EPFL</b>](https://www.epfl.ch/) in Switzerland 🇨🇭
 - Previously, I've worked as a system engineer for a CubeSat 🛰️ mission within the [<b>EPFL Spacecraft Team</b>](https://www.epflspacecraftteam.ch/) 🚀
 - My interests include open-source softwares ⛓️‍💥, low-level programming 💾 and cyber-security 🔐

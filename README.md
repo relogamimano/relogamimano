@@ -7,3 +7,5 @@ Hello 👋 ! My name is <b>Roméo Maignal</b>, here's a few facts about me :
 Here's my [<b>resume</b>](https://github.com/relogamimano/my-resume/blob/main/cv_romeo_maignal.pdf) if you wanna know more about me.
 
 <b>I pinned below a few projects I'm proud of, check it out !</b>
+
+[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=folke&count_private=true&show_icons=true)](https://github.com/folke)
